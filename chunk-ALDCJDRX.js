@@ -1,0 +1,1 @@
+import{a,b,c,d,e,f}from"./chunk-MNLYQNTG.js";import"./chunk-JEQJFD37.js";export{b as AboutSchool1Component,c as AboutSchool2Component,d as AboutSchool3Component,e as AboutSchool4Component,f as AboutSchool5Component,a as AboutSchoolComponent};
